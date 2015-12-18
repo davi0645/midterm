@@ -1,0 +1,18 @@
+<ion-view view-title="ToDo List 2">
+    <ion-content>
+        
+        <form class="item item-input" ng-submit="addTask()">
+            <input type="text" ng-model="$parent.newTask" placeholder="Enter a new task..."> 
+            <button class="btnAdd">Add</button>
+        </form>
+
+        <ion-list>
+            <ion-item ng-repeat="item in list2 track by $index" ng-class="{completed: list2[$index].done == 'true'}" on-double-tap="deleteTask($index)" on-tap="completeTask($event, $index)" >
+                {{item.task}}
+            </ion-item>
+            
+        </ion-list> 
+           
+    </ion-content>
+  
+</ion-view>

@@ -1,0 +1,38 @@
+2015-11-09 19:15:49.243 midterm[1896:146093] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Devon/Library/Developer/CoreSimulator/Devices/DD7EA216-F65A-4BA0-96BF-A0AA13653888/data/Containers/Data/Application/516FF081-431D-4DF6-91B3-E1849A08A672/Library/Cookies/com.ionicframework.midterm492335.binarycookies
+2015-11-09 19:15:49.505 midterm[1896:146093] Apache Cordova native platform version 3.8.0 is starting.
+2015-11-09 19:15:49.505 midterm[1896:146093] Multi-tasking -> Device: YES, App: YES
+2015-11-09 19:15:49.518 midterm[1896:146093] Unlimited access to network resources
+2015-11-09 19:15:49.860 midterm[1896:146093] [CDVTimer][keyboard] 0.073016ms
+2015-11-09 19:15:50.279 midterm[1896:146093] [CDVTimer][splashscreen] 418.744981ms
+2015-11-09 19:15:50.280 midterm[1896:146093] [CDVTimer][localnotification] 0.404000ms
+2015-11-09 19:15:50.280 midterm[1896:146093] [CDVTimer][localnotification] 0.007987ms
+2015-11-09 19:15:50.280 midterm[1896:146093] [CDVTimer][TotalPluginStartup] 420.036972ms
+2015-11-09 19:15:50.341 midterm[1896:146093] Resetting plugins due to page load.
+2015-11-09 19:15:50.612 midterm[1896:146093] Finished load of: file:///Users/Devon/Library/Developer/CoreSimulator/Devices/DD7EA216-F65A-4BA0-96BF-A0AA13653888/data/Containers/Bundle/Application/4D03942B-DB93-47DA-8826-DFC461E64445/midterm.app/www/index.html#/app/list1
+2015-11-09 19:16:23.005 midterm[1896:146093] 19:16:23.005 WARNING:  998: Failure to setup sound, err = -50
+2015-11-09 19:16:23.939 midterm[1896:146093] 19:16:23.939 WARNING:  998: Failure to setup sound, err = -50
+2015-11-09 19:16:33.587 midterm[1896:146093] 19:16:33.587 WARNING:  998: Failure to setup sound, err = -50
+2015-11-09 19:41:01.205 midterm[2749:160784] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Devon/Library/Developer/CoreSimulator/Devices/DD7EA216-F65A-4BA0-96BF-A0AA13653888/data/Containers/Data/Application/CFF51C2C-D193-49A2-9280-A530851968DB/Library/Cookies/com.ionicframework.midterm492335.binarycookies
+2015-11-09 19:41:01.363 midterm[2749:160784] Apache Cordova native platform version 3.8.0 is starting.
+2015-11-09 19:41:01.364 midterm[2749:160784] Multi-tasking -> Device: YES, App: YES
+2015-11-09 19:41:01.368 midterm[2749:160784] Unlimited access to network resources
+2015-11-09 19:41:01.463 midterm[2749:160784] [CDVTimer][keyboard] 0.154972ms
+2015-11-09 19:41:01.666 midterm[2749:160784] [CDVTimer][splashscreen] 202.997983ms
+2015-11-09 19:41:01.666 midterm[2749:160784] [CDVTimer][localnotification] 0.389993ms
+2015-11-09 19:41:01.667 midterm[2749:160784] [CDVTimer][localnotification] 0.005007ms
+2015-11-09 19:41:01.667 midterm[2749:160784] [CDVTimer][TotalPluginStartup] 204.416037ms
+2015-11-09 19:41:01.710 midterm[2749:160784] Resetting plugins due to page load.
+2015-11-09 19:41:01.887 midterm[2749:160784] Finished load of: file:///Users/Devon/Library/Developer/CoreSimulator/Devices/DD7EA216-F65A-4BA0-96BF-A0AA13653888/data/Containers/Bundle/Application/013AE8AE-2E6C-4F05-A167-DB2C5583A428/midterm.app/www/index.html#/app/list1
+2015-11-09 19:41:10.962 midterm[2749:161016] XPC connection interrupted
+2015-11-09 19:41:10.962 midterm[2749:161017] Terminating since there is no system app.
+2015-12-18 10:19:19.809 midterm[33126:538724] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/3ED5B198-BB22-47D6-8580-C2B157F3DFBF/Library/Cookies/Cookies.binarycookies
+2015-12-18 10:19:19.960 midterm[33126:538724] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 10:19:19.960 midterm[33126:538724] Multi-tasking -> Device: YES, App: YES
+2015-12-18 10:19:19.967 midterm[33126:538724] Unlimited access to network resources
+2015-12-18 10:19:20.189 midterm[33126:538724] [CDVTimer][keyboard] 0.065982ms
+2015-12-18 10:19:20.302 midterm[33126:538724] [CDVTimer][splashscreen] 113.236010ms
+2015-12-18 10:19:20.303 midterm[33126:538724] [CDVTimer][localnotification] 0.321031ms
+2015-12-18 10:19:20.303 midterm[33126:538724] [CDVTimer][localnotification] 0.005007ms
+2015-12-18 10:19:20.303 midterm[33126:538724] [CDVTimer][TotalPluginStartup] 114.220977ms
+2015-12-18 10:19:20.566 midterm[33126:538724] Resetting plugins due to page load.
+2015-12-18 10:19:20.752 midterm[33126:538724] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/4ED54604-C5AC-46F0-963F-6D909E7CE941/midterm.app/www/index.html#/app/list1

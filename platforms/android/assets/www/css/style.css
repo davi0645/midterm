@@ -1,0 +1,38 @@
+/* Empty. Add your own CSS if you like */
+
+.addButton:active{
+    background: blue;
+}
+
+.removeButton{
+    float: right;
+    background: #eee;
+    color: red;
+    border: none;
+    width: 7rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    
+}
+
+.removeButton:active{
+    background: red;
+    color: #fff;
+}
+
+.completed{
+	color: #ddd;
+    text-decoration: line-through;
+}
+
+.titlebar{
+    background: black;
+}
+
+.item:active{
+    background: #eef;
+}
+
+.list{
+    border-top: 0.3rem solid #898;
+}
